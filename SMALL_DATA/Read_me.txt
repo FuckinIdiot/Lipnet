@@ -1,0 +1,1 @@
+This project uses our own crop dataset with 240x240 size images. If you want to show more please contact at: kien.lt203474@sis.hust.edu.vn
